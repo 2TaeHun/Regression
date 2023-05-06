@@ -12,4 +12,4 @@ abline(lm_cm,col="blue") #최소 오차 회귀직선
 pred_cm<-predict(lm_cm) #선형회귀 예측값(x)
 pred_cm (98.25+0.45*x(아들키)=y_hat)
 summary(lm_cm)
-anova(lm_cm) #ANOVA 분산분석석
+anova(lm_cm) #ANOVA 분산분석
